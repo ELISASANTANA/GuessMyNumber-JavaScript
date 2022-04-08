@@ -1,1 +1,1 @@
-// Project Course JavaScript
+Project Course JavaScript
