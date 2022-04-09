@@ -1,1 +1,3 @@
-Project Course JavaScript
+Project JavaScript Course
+
+> DOM and EventListener Application
